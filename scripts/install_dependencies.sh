@@ -1,5 +1,3 @@
 #!/bin/bash
 
-apt-get update
-
-apt-get install apache2
+yum install httpd -y
